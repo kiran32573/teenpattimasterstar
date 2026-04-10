@@ -1,4 +1,3 @@
 {
-  "close_button_action": "none",
-  "close_button_url": "https://playonx.github.io/newupdates/"
+  "close_button_action": "close",
 }
