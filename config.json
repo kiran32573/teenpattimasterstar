@@ -1,4 +1,3 @@
 {
-  "close_button_action": "url",
-  "close_button_url": "https://google.com"
+  "close_button_action": "close"
 }
