@@ -1,0 +1,16 @@
+URL + close:- 
+{
+  "close_button_action": "both",
+  "close_button_url": "https://playonx.github.io/newupdates/"
+}
+-------------------------------------------------------------------------------
+Close:-
+{
+  "close_button_action": "close"
+}
+-------------------------------------------------------------------------------
+URL:- 
+{
+  "close_button_action": "url",
+  "close_button_url": "https://google.com"
+}
